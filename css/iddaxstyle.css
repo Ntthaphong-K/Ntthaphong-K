@@ -3,7 +3,7 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #333;
+    background-color: #0afcfc;
   }
 
   li {
@@ -19,7 +19,7 @@ ul {
   }
   
   li a:hover {
-    background-color: rgb(10, 227, 166);
+    background-color: rgb(176, 182, 180);
 }
 /* ################ */
 .form1 {
